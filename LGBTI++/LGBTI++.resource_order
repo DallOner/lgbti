@@ -24,6 +24,7 @@
     {"name":"Characters","order":2,"path":"folders/Sprites/ui/Characters.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"misc","order":3,"path":"folders/Sprites/board/misc.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_ui_buttons_btn_online","order":2,"path":"sprites/spr_ui_buttons_btn_online/spr_ui_buttons_btn_online.yy",},
