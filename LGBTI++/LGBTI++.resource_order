@@ -35,6 +35,7 @@
     {"name":"rm_help","order":3,"path":"rooms/rm_help/rm_help.yy",},
     {"name":"spr_ui_buttons_btn_back","order":6,"path":"sprites/spr_ui_buttons_btn_back/spr_ui_buttons_btn_back.yy",},
     {"name":"spr_ui_buttons_base","order":5,"path":"sprites/spr_ui_buttons_base/spr_ui_buttons_base.yy",},
+    {"name":"obj_ui_buttons_btn_quick","order":7,"path":"objects/obj_ui_buttons_btn_quick/obj_ui_buttons_btn_quick.yy",},
     {"name":"obj_ui_buttons_btn_achievements","order":3,"path":"objects/obj_ui_buttons_btn_achievements/obj_ui_buttons_btn_achievements.yy",},
     {"name":"spr_ui_buttons_btn_credits","order":1,"path":"sprites/spr_ui_buttons_btn_credits/spr_ui_buttons_btn_credits.yy",},
     {"name":"obj_ui_buttons_btn_help","order":2,"path":"objects/obj_ui_buttons_btn_help/obj_ui_buttons_btn_help.yy",},

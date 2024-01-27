@@ -40,7 +40,6 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
-    {"id":{"name":"Object8","path":"objects/Object8/Object8.yy",},},
     {"id":{"name":"spr_ui_buttons_btn_online","path":"sprites/spr_ui_buttons_btn_online/spr_ui_buttons_btn_online.yy",},},
     {"id":{"name":"spr_ui_buttons_btn_play","path":"sprites/spr_ui_buttons_btn_play/spr_ui_buttons_btn_play.yy",},},
     {"id":{"name":"rm_achievements","path":"rooms/rm_achievements/rm_achievements.yy",},},
@@ -53,9 +52,9 @@
     {"id":{"name":"rm_characters","path":"rooms/rm_characters/rm_characters.yy",},},
     {"id":{"name":"rm_help","path":"rooms/rm_help/rm_help.yy",},},
     {"id":{"name":"obj_ui_buttons_btn_play","path":"objects/obj_ui_buttons_btn_play/obj_ui_buttons_btn_play.yy",},},
-    {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},},
     {"id":{"name":"spr_ui_buttons_btn_back","path":"sprites/spr_ui_buttons_btn_back/spr_ui_buttons_btn_back.yy",},},
     {"id":{"name":"spr_ui_buttons_base","path":"sprites/spr_ui_buttons_base/spr_ui_buttons_base.yy",},},
+    {"id":{"name":"obj_ui_buttons_btn_quick","path":"objects/obj_ui_buttons_btn_quick/obj_ui_buttons_btn_quick.yy",},},
     {"id":{"name":"obj_ui_buttons_btn_achievements","path":"objects/obj_ui_buttons_btn_achievements/obj_ui_buttons_btn_achievements.yy",},},
     {"id":{"name":"spr_ui_buttons_btn_credits","path":"sprites/spr_ui_buttons_btn_credits/spr_ui_buttons_btn_credits.yy",},},
     {"id":{"name":"obj_ui_buttons_btn_help","path":"objects/obj_ui_buttons_btn_help/obj_ui_buttons_btn_help.yy",},},
