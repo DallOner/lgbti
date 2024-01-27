@@ -46,10 +46,12 @@
     {"id":{"name":"spr_ui_buttons_btn_achievements","path":"sprites/spr_ui_buttons_btn_achievements/spr_ui_buttons_btn_achievements.yy",},},
     {"id":{"name":"spr_ui_buttons_btn_help","path":"sprites/spr_ui_buttons_btn_help/spr_ui_buttons_btn_help.yy",},},
     {"id":{"name":"obj_ui_buttons_btn_play","path":"objects/obj_ui_buttons_btn_play/obj_ui_buttons_btn_play.yy",},},
+    {"id":{"name":"spr_ui_buttons_btn_back","path":"sprites/spr_ui_buttons_btn_back/spr_ui_buttons_btn_back.yy",},},
     {"id":{"name":"spr_ui_buttons_base","path":"sprites/spr_ui_buttons_base/spr_ui_buttons_base.yy",},},
     {"id":{"name":"obj_ui_buttons_btn_achievements","path":"objects/obj_ui_buttons_btn_achievements/obj_ui_buttons_btn_achievements.yy",},},
     {"id":{"name":"spr_ui_buttons_btn_credits","path":"sprites/spr_ui_buttons_btn_credits/spr_ui_buttons_btn_credits.yy",},},
     {"id":{"name":"obj_ui_buttons_btn_help","path":"objects/obj_ui_buttons_btn_help/obj_ui_buttons_btn_help.yy",},},
+    {"id":{"name":"obj_ui_buttons_btn_back","path":"objects/obj_ui_buttons_btn_back/obj_ui_buttons_btn_back.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
   ],
   "RoomOrderNodes": [
