@@ -1,15 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_ui_buttons_btn_achievements",
+  "name": "Object8",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "buttons",
-    "path": "folders/Objects/ui/buttons.yy",
+    "name": "characters",
+    "path": "folders/Objects/ui/characters.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_ui_buttons_btn_achievements",
-    "path": "sprites/spr_ui_buttons_btn_achievements/spr_ui_buttons_btn_achievements.yy",
+    "name": "Sprite8",
+    "path": "sprites/Sprite8/Sprite8.yy",
   },
   "spriteMaskId": null,
   "visible": true,
