@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_board_player_yellow",
-  "bbox_bottom": 45,
+  "bbox_bottom": 167,
   "bbox_left": 0,
-  "bbox_right": 25,
-  "bbox_top": 2,
+  "bbox_right": 95,
+  "bbox_top": 7,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7ed33a24-aaff-46cc-9fb0-fbb084bb9d10",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"48c507b6-72e0-40fa-9f70-0b7c42381eb4",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 47,
+  "height": 173,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a21d9034-93dc-4f96-b7ca-b7c0c807f04e","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"6c594d20-64e4-437f-b024-48576dd1682e","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"7ed33a24-aaff-46cc-9fb0-fbb084bb9d10","path":"sprites/spr_board_player_yellow/spr_board_player_yellow.yy",},},},"Disabled":false,"id":"a7498d7f-ede6-4b6b-8138-64bc7c84bc1c","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"48c507b6-72e0-40fa-9f70-0b7c42381eb4","path":"sprites/spr_board_player_yellow/spr_board_player_yellow.yy",},},},"Disabled":false,"id":"b52b6ce7-d33d-40b9-934c-1579d2e85e64","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 26,
+  "width": 96,
 }

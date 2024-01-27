@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_board_player_green",
-  "bbox_bottom": 45,
+  "bbox_bottom": 167,
   "bbox_left": 0,
-  "bbox_right": 25,
-  "bbox_top": 2,
+  "bbox_right": 95,
+  "bbox_top": 7,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b5e4dd76-4f1c-4de2-be35-dd496fedb154",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"785f2ab8-d990-46a2-acab-efbb48699453",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 47,
+  "height": 173,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"27a7e093-b86a-4aff-9404-9b8c21ac0333","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1ccdfda6-38c6-4ebb-9d14-34d4840ce596","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b5e4dd76-4f1c-4de2-be35-dd496fedb154","path":"sprites/spr_board_player_green/spr_board_player_green.yy",},},},"Disabled":false,"id":"1d4cf6d4-880f-4267-a928-bfc5aeb155ca","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"785f2ab8-d990-46a2-acab-efbb48699453","path":"sprites/spr_board_player_green/spr_board_player_green.yy",},},},"Disabled":false,"id":"2214389e-f70c-4ed5-8fee-311aac96fb35","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 26,
+  "width": 96,
 }
