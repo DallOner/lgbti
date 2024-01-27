@@ -67,6 +67,7 @@
     {"id":{"name":"spr_board_space_exchange","path":"sprites/spr_board_space_exchange/spr_board_space_exchange.yy",},},
     {"id":{"name":"obj_ui_buttons_btn_play","path":"objects/obj_ui_buttons_btn_play/obj_ui_buttons_btn_play.yy",},},
     {"id":{"name":"spr_board_space_x2","path":"sprites/spr_board_space_x2/spr_board_space_x2.yy",},},
+    {"id":{"name":"rm_board","path":"rooms/rm_board/rm_board.yy",},},
     {"id":{"name":"spr_board_space_chavez","path":"sprites/spr_board_space_chavez/spr_board_space_chavez.yy",},},
     {"id":{"name":"spr_ui_characters_yellow","path":"sprites/spr_ui_characters_yellow/spr_ui_characters_yellow.yy",},},
     {"id":{"name":"spr_ui_buttons_btn_back","path":"sprites/spr_ui_buttons_btn_back/spr_ui_buttons_btn_back.yy",},},
@@ -84,6 +85,7 @@
     {"roomId":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},},
     {"roomId":{"name":"rm_help","path":"rooms/rm_help/rm_help.yy",},},
     {"roomId":{"name":"rm_characters","path":"rooms/rm_characters/rm_characters.yy",},},
+    {"roomId":{"name":"rm_board","path":"rooms/rm_board/rm_board.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

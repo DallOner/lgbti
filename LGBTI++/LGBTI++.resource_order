@@ -45,6 +45,7 @@
     {"name":"rm_help","order":3,"path":"rooms/rm_help/rm_help.yy",},
     {"name":"spr_board_space_exchange","order":4,"path":"sprites/spr_board_space_exchange/spr_board_space_exchange.yy",},
     {"name":"spr_board_space_x2","order":3,"path":"sprites/spr_board_space_x2/spr_board_space_x2.yy",},
+    {"name":"rm_board","order":5,"path":"rooms/rm_board/rm_board.yy",},
     {"name":"spr_board_space_chavez","order":5,"path":"sprites/spr_board_space_chavez/spr_board_space_chavez.yy",},
     {"name":"spr_ui_characters_yellow","order":3,"path":"sprites/spr_ui_characters_yellow/spr_ui_characters_yellow.yy",},
     {"name":"spr_ui_buttons_btn_back","order":6,"path":"sprites/spr_ui_buttons_btn_back/spr_ui_buttons_btn_back.yy",},
