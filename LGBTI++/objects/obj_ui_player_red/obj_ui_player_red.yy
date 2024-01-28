@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_ui_player_blue",
+  "name": "obj_ui_player_red",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":true,},
   ],
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_ui_characters_blue",
-    "path": "sprites/spr_ui_characters_blue/spr_ui_characters_blue.yy",
+    "name": "spr_ui_characters_red",
+    "path": "sprites/spr_ui_characters_red/spr_ui_characters_red.yy",
   },
   "spriteMaskId": null,
   "visible": true,

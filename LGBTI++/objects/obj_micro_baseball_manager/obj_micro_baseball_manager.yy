@@ -1,15 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_ui_player_blue",
+  "name": "obj_micro_baseball_manager",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":true,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "characters",
-    "path": "folders/Objects/ui/characters.yy",
+    "name": "baseball",
+    "path": "folders/Objects/micro-games/baseball.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -27,10 +29,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_ui_characters_blue",
-    "path": "sprites/spr_ui_characters_blue/spr_ui_characters_blue.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
