@@ -39,6 +39,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Characters","folderPath":"folders/Sprites/ui/Characters.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"micro-games","folderPath":"folders/Rooms/micro-games.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -87,6 +88,7 @@
     {"id":{"name":"spr_ui_buttons_base","path":"sprites/spr_ui_buttons_base/spr_ui_buttons_base.yy",},},
     {"id":{"name":"obj_ui_buttons_btn_quick","path":"objects/obj_ui_buttons_btn_quick/obj_ui_buttons_btn_quick.yy",},},
     {"id":{"name":"obj_ui_buttons_btn_achievements","path":"objects/obj_ui_buttons_btn_achievements/obj_ui_buttons_btn_achievements.yy",},},
+    {"id":{"name":"rm_baseball","path":"rooms/rm_baseball/rm_baseball.yy",},},
     {"id":{"name":"spr_ui_buttons_btn_credits","path":"sprites/spr_ui_buttons_btn_credits/spr_ui_buttons_btn_credits.yy",},},
     {"id":{"name":"obj_board_space_biker","path":"objects/obj_board_space_biker/obj_board_space_biker.yy",},},
     {"id":{"name":"obj_ui_buttons_btn_help","path":"objects/obj_ui_buttons_btn_help/obj_ui_buttons_btn_help.yy",},},
@@ -101,6 +103,7 @@
     {"roomId":{"name":"rm_help","path":"rooms/rm_help/rm_help.yy",},},
     {"roomId":{"name":"rm_characters","path":"rooms/rm_characters/rm_characters.yy",},},
     {"roomId":{"name":"rm_board","path":"rooms/rm_board/rm_board.yy",},},
+    {"roomId":{"name":"rm_baseball","path":"rooms/rm_baseball/rm_baseball.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
