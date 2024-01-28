@@ -4,6 +4,7 @@
   "name": "obj_ui_player_yellow",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":82,"eventType":10,"isDnD":true,},
   ],
   "managed": true,
   "overriddenProperties": [],
