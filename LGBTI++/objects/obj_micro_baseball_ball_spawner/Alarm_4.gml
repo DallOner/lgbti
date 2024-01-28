@@ -5,4 +5,4 @@
 /// @DnDArgument : "ypos" "obj_ui_player_blue.y-412"
 /// @DnDArgument : "objectid" "obj_micro_baseball_ball_fast"
 /// @DnDSaveInfo : "objectid" "obj_micro_baseball_ball_fast"
-instance_create_layer(obj_ui_player_blue.x+16, obj_ui_player_blue.y-412, "Instances", obj_micro_baseball_ball_fast);
+instance_create_layer(obj_ui_chars_baseball_player_blue.x+16, obj_ui_chars_baseball_player_blue.y-412, "Instances", obj_micro_baseball_ball_fast);

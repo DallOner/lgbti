@@ -5,7 +5,7 @@
 /// @DnDArgument : "y" "64"
 /// @DnDArgument : "caption" ""P1 -  ""
 /// @DnDArgument : "var" "global.p1_score"
-draw_text(obj_ui_player_blue.x+64, 64, string("P1 -  ") + string(global.p1_score));
+draw_text(obj_ui_chars_baseball_player_blue.x+64, 64, string("P1 -  ") + string(global.p1_score));
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
@@ -14,7 +14,7 @@ draw_text(obj_ui_player_blue.x+64, 64, string("P1 -  ") + string(global.p1_score
 /// @DnDArgument : "y" "64"
 /// @DnDArgument : "caption" ""P2 -  ""
 /// @DnDArgument : "var" "global.p2_score"
-draw_text(obj_ui_player_red.x+64, 64, string("P2 -  ") + string(global.p2_score));
+draw_text(obj_ui_chars_baseball_player_red.x+64, 64, string("P2 -  ") + string(global.p2_score));
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
@@ -23,7 +23,7 @@ draw_text(obj_ui_player_red.x+64, 64, string("P2 -  ") + string(global.p2_score)
 /// @DnDArgument : "y" "64"
 /// @DnDArgument : "caption" ""P3 -  ""
 /// @DnDArgument : "var" "global.p3_score"
-draw_text(obj_ui_player_yellow.x+64, 64, string("P3 -  ") + string(global.p3_score));
+draw_text(obj_ui_chars_baseball_player_yellow.x+64, 64, string("P3 -  ") + string(global.p3_score));
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
@@ -32,4 +32,4 @@ draw_text(obj_ui_player_yellow.x+64, 64, string("P3 -  ") + string(global.p3_sco
 /// @DnDArgument : "y" "64"
 /// @DnDArgument : "caption" ""P4 -  ""
 /// @DnDArgument : "var" "global.p4_score"
-draw_text(obj_ui_player_green.x+64, 64, string("P4 -  ") + string(global.p4_score));
+draw_text(obj_ui_chars_baseball_player_green.x+64, 64, string("P4 -  ") + string(global.p4_score));
