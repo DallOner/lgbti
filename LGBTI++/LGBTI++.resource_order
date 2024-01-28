@@ -30,9 +30,12 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
     {"name":"micro-games","order":6,"path":"folders/Rooms/micro-games.yy",},
     {"name":"backgrounds","order":3,"path":"folders/Sprites/backgrounds.yy",},
+    {"name":"micro-games","order":4,"path":"folders/Sprites/micro-games.yy",},
+    {"name":"baseball","order":1,"path":"folders/Sprites/micro-games/baseball.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_ui_buttons_btn_online","order":2,"path":"sprites/spr_ui_buttons_btn_online/spr_ui_buttons_btn_online.yy",},
+    {"name":"spr_micro_baseball_ball","order":1,"path":"sprites/spr_micro_baseball_ball/spr_micro_baseball_ball.yy",},
     {"name":"obj_board_space_blue","order":2,"path":"objects/obj_board_space_blue/obj_board_space_blue.yy",},
     {"name":"rm_achievements","order":1,"path":"rooms/rm_achievements/rm_achievements.yy",},
     {"name":"spr_board_space_red","order":2,"path":"sprites/spr_board_space_red/spr_board_space_red.yy",},
