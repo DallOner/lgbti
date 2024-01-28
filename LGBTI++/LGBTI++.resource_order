@@ -29,6 +29,7 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
     {"name":"micro-games","order":6,"path":"folders/Rooms/micro-games.yy",},
+    {"name":"backgrounds","order":3,"path":"folders/Sprites/backgrounds.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_ui_buttons_btn_online","order":2,"path":"sprites/spr_ui_buttons_btn_online/spr_ui_buttons_btn_online.yy",},
@@ -37,6 +38,7 @@
     {"name":"spr_board_space_red","order":2,"path":"sprites/spr_board_space_red/spr_board_space_red.yy",},
     {"name":"rm_credits","order":2,"path":"rooms/rm_credits/rm_credits.yy",},
     {"name":"spr_ui_characters_green","order":2,"path":"sprites/spr_ui_characters_green/spr_ui_characters_green.yy",},
+    {"name":"bg_menu","order":1,"path":"sprites/bg_menu/bg_menu.yy",},
     {"name":"obj_ui_buttons_btn_online","order":5,"path":"objects/obj_ui_buttons_btn_online/obj_ui_buttons_btn_online.yy",},
     {"name":"obj_board_player_red","order":2,"path":"objects/obj_board_player_red/obj_board_player_red.yy",},
     {"name":"obj_board_space_chavez","order":1,"path":"objects/obj_board_space_chavez/obj_board_space_chavez.yy",},
